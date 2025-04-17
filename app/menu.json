@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Example section",
+    "items": [
+      {
+        "title": "Example page",
+        "path": "/docs/example-section/example-page"
+      }
+    ]
+  }
+]
